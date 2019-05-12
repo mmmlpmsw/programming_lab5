@@ -1,0 +1,1 @@
+javadoc18 -encoding UTF-8 -d public_html -sourcepath ./src -classpath ./lib/JSONlib.jar ifmo.programming.lab5

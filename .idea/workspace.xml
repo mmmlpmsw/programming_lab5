@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="prog_lab4:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aad2d223-fdf9-44b9-a07c-7c21e8b5904b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/BuildingChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/Furnishings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/RoomFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/lab5.plantuml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifmo/programming/lab5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifmo/programming/lab5/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1015">
+              <caret line="225" column="1" selection-start-line="225" selection-start-column="1" selection-end-line="225" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/Building.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mark</find>
+      <find>void mark</find>
+      <find>StringBuilder</find>
+      <find>saveS</find>
+      <find>loadf</find>
+      <find>height</find>
+      <find>setChange</find>
+      <find>StringB</find>
+      <find>getFileC</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/ifmo/programming/lab5" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/start-java18.sh" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/Hoosegow.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/Creature.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/HoosegowStateController.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONString.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/CreatureFactory.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/RoomFactiry.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONType.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/RoomFactory.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONParser.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/Room.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONObject.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONBoolean.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/json/JSONType.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONArray.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONNumber.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/json/JSONEntity.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/Building.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/BuildingStateController.java" />
+        <option value="$PROJECT_DIR$/src/ru/david/room/Main.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONArray.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONBoolean.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONEntity.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONNumber.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONObject.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONParseException.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONParser.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONString.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONType.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/json/RoomFactory.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/CoordinatesOutOfRoomException.java" />
+        <option value="$PROJECT_DIR$/autosave.json" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/Furnishings.java" />
+        <option value="F:/IFMO/prog/Lab4/src/ActThings.java" />
+        <option value="$PROJECT_DIR$/build/production/prog_lab4/unused.txt" />
+        <option value="F:/super-laba-po-proge-nad9/build/production/prog_lab4/unused.txt" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/BuildingStateController.java" />
+        <option value="$PROJECT_DIR$/file.txt" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/RoomFactory.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/Room.java" />
+        <option value="$PROJECT_DIR$/build-java18.sh" />
+        <option value="$PROJECT_DIR$/build.sh" />
+        <option value="$PROJECT_DIR$/ch1.plantuml" />
+        <option value="$PROJECT_DIR$/src/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/building.json" />
+        <option value="$PROJECT_DIR$/genjdoc.sh" />
+        <option value="$PROJECT_DIR$/genjdoc18.sh" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/lab5.plantuml" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/BuildingChecker.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/Building.java" />
+        <option value="$PROJECT_DIR$/src/ifmo/programming/lab5/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1095" />
+    <option name="height" value="705" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proglab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proglab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proglab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proglab5" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proglab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proglab5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proglab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proglab5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="toString&#9;ACTION&#9;Actions.ActionsPlugin.GenerateToString" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556187428368" />
+    <property name="last_opened_file_path" value="D:/System/Downloads/json-parser-master/json-parser-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\david\Desktop\super-laba-po-proge-nad9\src\ru\david\room" />
+      <recent name="C:\Users\david\Desktop\super-laba-po-proge-nad9\src\ru\david\room\json" />
+      <recent name="C:\Users\david\Desktop\prog_lab4\src\ru\david\room" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\Desktop\super-laba-po-proge-nad9\src\ru\david\room" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:/System/Program Files/Java/jdk1.8.0_201" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="LOADFILE" value="building.json" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ifmo.programming.lab5.Main" />
+      <module name="prog_lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.david.room.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.david.room.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad2d223-fdf9-44b9-a07c-7c21e8b5904b" name="Default Changelist" comment="" />
+      <created>1549365016663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549365016663</updated>
+      <workItem from="1549365020322" duration="45000" />
+      <workItem from="1549365086965" duration="2701000" />
+      <workItem from="1549516483023" duration="60000" />
+      <workItem from="1549752252965" duration="18467000" />
+      <workItem from="1549807449096" duration="13468000" />
+      <workItem from="1549836338802" duration="13724000" />
+      <workItem from="1549921809216" duration="13966000" />
+      <workItem from="1549955451849" duration="8665000" />
+      <workItem from="1549967770660" duration="2614000" />
+      <workItem from="1550002818239" duration="1382000" />
+      <workItem from="1550097710035" duration="100000" />
+      <workItem from="1550099430077" duration="346000" />
+      <workItem from="1550176529373" duration="5865000" />
+      <workItem from="1550425168466" duration="5882000" />
+      <workItem from="1550440411494" duration="7614000" />
+      <workItem from="1550498108223" duration="32000" />
+      <workItem from="1550498314177" duration="27000" />
+      <workItem from="1550498706910" duration="50000" />
+      <workItem from="1550499209340" duration="83000" />
+      <workItem from="1550499354845" duration="17000" />
+      <workItem from="1550503526703" duration="139000" />
+      <workItem from="1550504232486" duration="383000" />
+      <workItem from="1550504878523" duration="736000" />
+      <workItem from="1550507524717" duration="253000" />
+      <workItem from="1550508057059" duration="19729000" />
+      <workItem from="1550530780440" duration="4101000" />
+      <workItem from="1550535422075" duration="6840000" />
+      <workItem from="1550593945492" duration="2918000" />
+      <workItem from="1550695991525" duration="205000" />
+      <workItem from="1550696250455" duration="83000" />
+      <workItem from="1550696387458" duration="522000" />
+      <workItem from="1550914209310" duration="2366000" />
+      <workItem from="1550906433145" duration="865000" />
+      <workItem from="1550928276979" duration="2770000" />
+      <workItem from="1551714983098" duration="2701000" />
+      <workItem from="1551718439729" duration="2190000" />
+      <workItem from="1551733226544" duration="4871000" />
+      <workItem from="1551739947143" duration="590000" />
+      <workItem from="1552504983662" duration="526000" />
+      <workItem from="1552641578849" duration="7000" />
+      <workItem from="1552656738119" duration="845000" />
+      <workItem from="1552724728619" duration="5000" />
+      <workItem from="1552733120816" duration="461000" />
+      <workItem from="1552858968588" duration="11000" />
+      <workItem from="1552984056499" duration="888000" />
+      <workItem from="1553204181774" duration="2000" />
+      <workItem from="1553854040032" duration="616000" />
+      <workItem from="1553895805331" duration="2257000" />
+      <workItem from="1554050488000" duration="641000" />
+      <workItem from="1554455643818" duration="641000" />
+      <workItem from="1555275047834" duration="43000" />
+      <workItem from="1555450204715" duration="4001000" />
+      <workItem from="1555459923921" duration="1812000" />
+      <workItem from="1555465946587" duration="610000" />
+      <workItem from="1555481198560" duration="595000" />
+      <workItem from="1555483066056" duration="160000" />
+      <workItem from="1555490977041" duration="1796000" />
+      <workItem from="1555520672171" duration="1195000" />
+      <workItem from="1555529637855" duration="1992000" />
+      <workItem from="1555549578288" duration="4229000" />
+      <workItem from="1555624905299" duration="1240000" />
+      <workItem from="1555638299988" duration="4896000" />
+      <workItem from="1555664646065" duration="662000" />
+      <workItem from="1555709870301" duration="592000" />
+      <workItem from="1556016333107" duration="2616000" />
+      <workItem from="1556033817949" duration="2044000" />
+      <workItem from="1556043810577" duration="1303000" />
+      <workItem from="1556187380357" duration="51000" />
+      <workItem from="1556187579524" duration="375000" />
+      <workItem from="1556463804994" duration="746000" />
+      <workItem from="1556568168332" duration="2093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187321000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10067114" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32152975" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39970282" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32577905" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.49716714" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="PlantUML" order="7" sideWeight="0.5028329" side_tool="true" weight="0.24966443" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Database" order="10" sideWeight="0.49858356" weight="0.3295302" />
+      <window_info anchor="right" x="0" y="0" width="295" height="584" id="Documentation" order="11" side_tool="true" weight="0.329429" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/IFMO/prog/Lab4/src/ActThings.java" />
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONString.java" />
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/json/JSONEntity.java" />
+    <entry file="jar://C:/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/build/production/prog_lab4/unused.txt" />
+    <entry file="file://F:/super-laba-po-proge-nad9/build/production/prog_lab4/unused.txt" />
+    <entry file="file://F:/lab5/src/main/java/ru/ifmo/prog/lab5/Main.java" />
+    <entry file="jar://C:/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
+    <entry file="jar://C:/Java/jdk1.8.0_181/src.zip!/java/lang/Runtime.java" />
+    <entry file="file://$PROJECT_DIR$/s.json" />
+    <entry file="jar://C:/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java" />
+    <entry file="file://$PROJECT_DIR$/autosave.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-java18.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/super-laba-po-proge-nad9 (1)/super-laba-po-proge-nad9/src/ru/david/room/BuildingStateController.java" />
+    <entry file="file://$USER_HOME$/Downloads/super-laba-po-proge-nad9 (1)/super-laba-po-proge-nad9/src/ru/david/room/Building.java" />
+    <entry file="file://$USER_HOME$/Downloads/super-laba-po-proge-nad9 (1)/super-laba-po-proge-nad9/src/ru/david/room/RoomFactory.java" />
+    <entry file="file://$USER_HOME$/Downloads/super-laba-po-proge-nad9 (1)/super-laba-po-proge-nad9/src/ru/david/room/Main.java" />
+    <entry file="jar://F:/JSONlib.jar!/com/company/lib/JSONParser.class" />
+    <entry file="file://F:/lab5/src/main/java/ru/ifmo/prog/lab5/Collection.java" />
+    <entry file="file://F:/ch1/src/ifmo/programming/lab5/Main.java" />
+    <entry file="file://F:/ch1/src/ifmo/programming/lab5/Building.java" />
+    <entry file="file://F:/ch1/src/ifmo/programming/lab5/BuildingChecker.java" />
+    <entry file="file://F:/lab5/ch1/src/ifmo/programming/lab5/lab5.plantuml" />
+    <entry file="file://F:/lab5/ch1/src/ifmo/programming/lab5/Main.java" />
+    <entry file="file://$PROJECT_DIR$/ch1.plantuml" />
+    <entry file="file://$PROJECT_DIR$/file.txt" />
+    <entry file="file://$PROJECT_DIR$/build/production/prog_lab4/MANIFEST.MF" />
+    <entry file="jar://$PROJECT_DIR$/lib/JSONlib.jar!/com/company/lib/JSONParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="94" column="24" lean-forward="true" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/building.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="275" column="17" lean-forward="true" selection-start-line="275" selection-start-column="17" selection-end-line="275" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/JSONlib.jar!/com/company/lib/JSONNumber.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genjdoc18.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genjdoc.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="107" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/proglab5.plantuml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/compile-server/proglab5_fee3211a/stale_outputs_checked">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/compile-server/proglab5_fee3211a/ustamp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/lab5.plantuml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/Furnishings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/JSONlib.jar!/com/company/lib/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/BuildingChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="92" column="87" selection-start-line="92" selection-start-column="87" selection-end-line="92" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="2866" column="18" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/JSONlib.jar!/com/company/lib/JSONType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/JSONlib.jar!/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/RoomFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="53" column="75" selection-start-line="53" selection-start-column="75" selection-end-line="53" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="225" column="1" selection-start-line="225" selection-start-column="1" selection-end-line="225" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ifmo/programming/lab5/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>prog_lab4:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>prog_lab4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JSONlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

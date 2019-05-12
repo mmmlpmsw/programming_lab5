@@ -1,0 +1,48 @@
+{
+  "created": 1550477201162,
+    "collection":
+    [
+      {
+        "length": 11,
+        "width": 5,
+        "wallcolor": "white",
+        "height": 10,
+        "shelf":
+          [
+            {
+              "size": 2,
+              "name": "flower"
+            },
+            {
+              "size": 1,
+              "name": "hat"
+            },
+            {
+              "size": 3,
+              "name": "book"
+            }
+          ]
+      },
+      {
+        "length": 11,
+        "width": 5,
+        "wallcolor": "yellow",
+        "height": 10,
+        "shelf":
+          [
+            {
+              "size": 1,
+              "name": "flower"
+            },
+            {
+              "size": 1,
+              "name": "hat"
+            },
+            {
+              "size": 1,
+              "name": "flower"
+            }
+          ]
+      }
+    ]
+}
